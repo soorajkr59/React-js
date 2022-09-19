@@ -1,0 +1,298 @@
+.n1{
+  display: inline;
+  padding: 30px;
+}
+.back
+{
+  background-color: grey;
+  padding: 40px;
+}
+.back1
+{
+  background-image: url("back.png");
+  height: 100vh;
+  width: 100vw;
+ 
+}
+
+.back2
+{
+
+  background-color: skyblue;
+  height: 200px;
+  width: 300px;
+}
+.bg2{
+  width: 500px;
+  height: 600px;
+  background-color: aquamarine;
+  border-radius: 20px;
+  margin-left: 400px;
+  
+}
+.head
+{
+  margin-left: 600px;
+  color: black;
+}
+.photo
+{
+  height: 200px;
+  width: 200px;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+.text
+{
+  text-align: center;
+}
+.photo2
+{
+  height: 150px;
+  width: 200px;
+  margin-left: 150px;
+}
+.helo1{
+  text-align: center;
+  color: black;
+}
+.le-back1
+{
+  background-color: black;
+  height: 500px;
+  width: 600px;
+  border-radius: 20px;
+  margin-left: 350px;
+
+}
+.le-text
+{
+  text-align: center;
+  color: white;
+  padding: 50px;
+}
+.le-photo1
+{
+  height: 160px;
+  width: 220px;
+  margin-left: 70px;
+}
+.le-photo2
+{
+  height: 160px;
+  width: 220px;
+  
+}
+.card-bg{
+  background-color:burlywood;
+  height: 100vh;
+  width: 100vw;
+  
+  padding: 50px;
+}
+.card-text
+{
+  color: black;
+  text-align: center;
+}
+.card-1{
+  background-color: white;
+  border-top: 7px solid red;
+  height: 200px;
+  width: 300px;
+  border-radius: 20px;
+  margin-left: 200px;
+  margin-top: 30px;
+
+}
+.card-2
+{
+  background-color: white;
+  border-radius: 20px;
+  height: 200px;
+  width: 300px;
+  margin-left: 800px;
+  margin-top: -200px;
+  border-top: 7px solid red;
+  
+}
+.img {
+  height: 100px;
+  width: 100px;
+  border-radius: 40px;
+  margin-left: 150px;
+  padding: 30px;
+  margin-top: -40px;
+}
+/* .img1
+{
+  height: 50px;
+  width: 50px;
+  border-radius: 20px;
+} */
+.para
+{
+  padding: 20px;
+}
+
+  
+
+
+ul
+{
+  background-color: blue;
+  padding: 20px;
+}
+
+ul li
+{
+  display: inline;
+  padding: 20px;
+  color: white;
+}
+
+ul li:hover
+{
+  background-color: black;
+}
+.fback
+{
+  background-color: sandybrown;
+  height: 100vh;
+
+}
+.fback2
+{
+  background-color: white;
+  height: 500px;
+  width: 700px;
+  
+  margin-left: 300px;
+  border-radius: 40px;
+}
+.ftext
+{
+ text-align: center;
+  
+}
+.fimg
+{
+  height: 200px;
+  width: 200p;
+  margin-left: 70px;
+  margin-top: 70px;
+}
+.fimg1
+{
+  height: 200px;
+  width: 200p;
+  margin-left: 100px;
+}
+.fbtn1
+{
+background-color: yellow;
+border-radius: 10px;
+padding: 20px;
+margin-left: 130px;
+
+}
+.fbtn2
+{
+  background-color:yellow;
+  border-radius: 10px;
+  padding: 20px;
+  margin-left: 230px;
+  margin-top: 40px;
+}
+.fba
+{
+  color: yellow;
+}
+.re-back
+{
+  background-color: lightpink;
+  height: 100vh;
+  width: 100vw;
+  
+}
+.re-back
+{
+  background-color: white;
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+}
+.re-div
+{
+  background-color: black;
+  height: 500px;
+  width: 500px;
+  margin-left: 380px;
+  margin-top: 70px;
+  border-radius: 20px;
+}
+.re-h2
+{
+  color:white;
+  text-align: center;
+  padding: 30px;
+}
+.re-img
+{
+  height: 100px;
+  width: 100px;
+  color: yellow;
+  padding: 30px;
+  
+}
+.re-span
+{
+  display: flex;
+  flex-direction: row;
+  
+}
+.re-align1
+{
+  margin-left: 50px;
+}
+.re-align2{
+  margin-left: 95px;
+
+}
+.re-align3
+{
+  margin-left: 115px;
+}
+.re-pageback
+
+{
+  background-color: white;
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+
+}
+.re-pagediv
+
+{
+  background-color: black;
+  height: 500px;
+  width: 500px;
+  margin-left: 380px;
+  border-radius: 20px;
+  margin-top: 70px;
+
+}
+.re-pageh1
+{
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+.re-pageimg
+{
+  color: red;
+  height: 100px;
+  width: 100px;
+  margin-left: 190px;  
+}
